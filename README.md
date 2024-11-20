@@ -18,7 +18,7 @@ Bem-vindo ao **Sistema de Cadastro**, uma solução robusta para gerenciamento d
 
 ### Tela Principal
 <div align="center">
-    <img src="caminho/para/imagem1.png" alt="Tela Principal" width="600">
+    <img src="https://github.com/Jonemanuel/Sistema-de-Cadastro/blob/master/readme/Captura%20de%20tela%20de%202024-11-20%2000-08-35.png?raw=true" alt="Tela Principal" width="600">
 </div>
 
 ---
