@@ -23,20 +23,6 @@ Bem-vindo ao **Sistema de Cadastro**, uma solução robusta para gerenciamento d
 
 ---
 
-### Formulário de Cadastro
-<div align="center">
-    <img src="caminho/para/imagem2.png" alt="Formulário de Cadastro" width="600">
-</div>
-
----
-
-### Listagem de Dados
-<div align="center">
-    <img src="caminho/para/imagem3.png" alt="Listagem de Dados" width="600">
-</div>
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **.NET Framework/Core**: Para desenvolvimento do backend e interface.
